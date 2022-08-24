@@ -30,14 +30,6 @@ function setup() {
 createCanvas(600,700)
 
 
-
-
-        
-    
-
-
-
-
 for (let i=0;i<numPts; i++) {
     let googleDataPoint;
     googleDataPoint = google.get(i,0)
